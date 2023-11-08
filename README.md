@@ -49,7 +49,7 @@ You can do everything in this tutorial in Cloud Shell.
 Clone the repository that contains the sample data:
 
 
-git clone https://github.com/GoogleCloudPlatform/training-data-analyst.git
+git clone 
 You use the data from the training-data-analyst repository to create a database with some mock records.
 
 Configure the following environment variables:
